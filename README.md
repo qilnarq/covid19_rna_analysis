@@ -267,7 +267,7 @@ jupyter notebook
 Open:
 
 ```text
-covid-19-rna(2).ipynb
+covid19_rna_analysis.ipynb
 ```
 
 Run the notebook cells in order.
